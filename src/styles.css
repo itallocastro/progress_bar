@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+.chart div
+{
+    font: 10px sans-serif;
+    background-color: blueviolet;
+    text-align: right;
+    padding: 3px;
+    margin: 1px;
+    color: white;
+}
